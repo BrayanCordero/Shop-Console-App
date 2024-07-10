@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wI+JjreznO3lgqqD79jr9U6U2Z5XyXjdAaDU5TU86u3aJtSbEt5bLN/NG7Kx9yUjt5q3/PdJ6/zfdruMLBa2vg==",
+  "success": true,
+  "projectFilePath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj",
+  "expectedPackageFiles": [
+    "/Users/brayan/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/brayan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

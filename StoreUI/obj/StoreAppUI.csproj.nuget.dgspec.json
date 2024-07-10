@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreUI/StoreAppUI.csproj": {}
+  },
+  "projects": {
+    "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreBL/StoreBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreBL/StoreBL.csproj",
+        "projectName": "StoreBL",
+        "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreBL/StoreBL.csproj",
+        "packagesPath": "/Users/brayan/.nuget/packages/",
+        "outputPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreBL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brayan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj": {
+                "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj"
+              },
+              "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj": {
+                "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj",
+        "projectName": "StoreDL",
+        "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj",
+        "packagesPath": "/Users/brayan/.nuget/packages/",
+        "outputPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brayan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj": {
+                "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj",
+        "projectName": "StoreModels",
+        "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj",
+        "packagesPath": "/Users/brayan/.nuget/packages/",
+        "outputPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brayan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreUI/StoreAppUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreUI/StoreAppUI.csproj",
+        "projectName": "StoreAppUI",
+        "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreUI/StoreAppUI.csproj",
+        "packagesPath": "/Users/brayan/.nuget/packages/",
+        "outputPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brayan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreBL/StoreBL.csproj": {
+                "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreBL/StoreBL.csproj"
+              },
+              "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj": {
+                "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreDL/StoreDL.csproj"
+              },
+              "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj": {
+                "projectPath": "/Users/brayan/Desktop/School/Revature/P0-Store/Brayan-Cordero-P0/StoreModels/StoreModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

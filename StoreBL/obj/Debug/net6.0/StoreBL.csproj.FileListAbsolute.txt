@@ -1,0 +1,17 @@
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreBL.deps.json
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreBL.dll
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/ref/StoreBL.dll
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreBL.pdb
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreDL.dll
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreModels.dll
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreModels.pdb
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/bin/Debug/net6.0/StoreDL.pdb
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.csproj.AssemblyReference.cache
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.AssemblyInfoInputs.cache
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.AssemblyInfo.cs
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.csproj.CoreCompileInputs.cache
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.csproj.CopyComplete
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.dll
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/ref/StoreBL.dll
+/Users/brayan/Desktop/P0-Store/Brayan-Cordero-P0/StoreBL/obj/Debug/net6.0/StoreBL.pdb
