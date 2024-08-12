@@ -1,5 +1,8 @@
 <h1 align="center"> Brayan's Snack Shop </h1><br>
 
+## Overview
+The Shop Console App is a console-based application designed to manage an online store's inventory, orders, and customer data. It allows users to perform various CRUD operations on products and orders, providing a simple and efficient way to manage shop operations.
+
 ## Tech Stack
 * C#
 * ASP.NET Core
