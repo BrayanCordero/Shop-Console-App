@@ -2,9 +2,10 @@
 
 ## Tech Stack
 * C#
-* ASP.NET Core Web API
+* ASP.NET Core
 * ADO.NET
-* AWS RDS SQLServer DB
+* AWS RDS
+* Microsoft SQL Server 
 * Xunit
 
 ## Functionality
